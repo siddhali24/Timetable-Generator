@@ -20,6 +20,7 @@ Timetable Generation System leveraging a Backtracking Algorithm  to automate sch
 **DIRECTIONS**
 Install django, set it up ; extract all files from zip;run the following on terminal:  
 cd mywebsite\mywebsite
+
 python manage.py runserver 8000
 
 then Visit: http://127.0.0.1:8000/
