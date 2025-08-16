@@ -1,5 +1,5 @@
-# Timetable-Generator
-College timetable generator using genetic algorithm in django
+# Automated-Timetable-Generator
+Django project
 
 Timetable Generation System leveraging a Backtracking Algorithm  to automate scheduling while ensuring efficiency, fairness, and compliance with institutional constraints. The system dynamically allocates subjects and practical sessions while preventing conflicts, optimizing faculty workload, and improving student experience.
 
