@@ -15,7 +15,7 @@ Timetable Generation System leveraging a Backtracking Algorithm  to automate sch
 5. Scalable & Adaptable – Customized as per academic requirements. New faculties and subjects can be added.
 6. Security- Secured access available to admin using Django framework.
 7. UI/UX- User friendly , dynamic content rendering .
-8. CAN MAKE TIMETABLE FOR 2 CLASSES AT A TIME SHARING SAME TEACHERS AND SUBJECTS.
+8. CAN GENERATE A TIMETABLE FOR TWO CLASSES AT A TIME, SHARING THE SAME TEACHERS AND SUBJECTS.
 
 **DIRECTIONS**
 Install django, set it up ; extract all files from zip;run the following on terminal:  
